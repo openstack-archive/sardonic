@@ -1,0 +1,8 @@
+Code-Review+2: Jim Rollenhagen <jim@jimrollenhagen.com>
+Workflow+1: Jim Rollenhagen <jim@jimrollenhagen.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 26 Sep 2018 18:01:41 +0000
+Reviewed-on: https://review.openstack.org/605449
+Project: openstack/sardonic
+Branch: refs/heads/master

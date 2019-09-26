@@ -1,6 +1,0 @@
-[run]
-branch = True
-source = sardonic
-
-[report]
-ignore_errors = True
